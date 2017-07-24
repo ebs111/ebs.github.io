@@ -1,0 +1,95 @@
+#this is a demo list file
+
+#list name
+list name=Ebs Online list
+#unknownsources
+unknownsources=true
+#icon/fanart
+icon=http://2.bp.blogspot.com/-y4FOiTQeODg/TyFw1ISsRPI/AAAAAAAAFSc/VhaHog90lak/s1600/images.jpg
+fanart=http://gary3dfxtech.net/Kodi%20Backgrounds/power/power-button.jpg
+#addons/repos
+#basic
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.routing-0.2.0.zip$routing$script.module.routing
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.simplejson-master.zip$simplejson$script.module.simplejson-master
+https://github.com/BigNoid/service.library.data.provider/archive/master.zip$library.data.provider$service.library.data.provider-master
+https://github.com/LS80/script.module.six/archive/master.zip$module.six$script.module.six-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.dateutil-master.zip$dateutil$script.module.dateutil-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.arrow-master.zip$arrow$script.module.arrow-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.simplecache-master.zip$simplecache$script.module.simplecache-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.requests-gotham.zip$Request$script.module.requests-gotham
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.musicbrainz-master.zip$musicbrainz$script.module.musicbrainz-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.beautifulsoup-master.zip$beautifulsoup$script.module.beautifulsoup-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/resource.language.he_il-3.0.9.zip$language.he_il$resource.language.he_il
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.unidecode-master.zip$unidecode$script.module.unidecode-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.image.resource.select-master.zip$resource.select$script.image.resource.select-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.favourites-master.zip$favourites$script.favourites-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/resource.images.weatherfanart.single-master.zip$weatherfanart$resource.images.weatherfanart.single-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/resource.images.studios.white-master.zip$studios.white$resource.images.studios.white-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/resource.images.recordlabels.white-master.zip$recordlabels.white$resource.images.recordlabels.white-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/resource.images.languageflags.colour-master.zip$languageflags.colour$resource.images.languageflags.colour-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.skinshortcuts-master.zip$skinshortcuts$script.skinshortcuts-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/service.xbmc.versioncheck-master.zip$versioncheck$service.xbmc.versioncheck
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.t1mlib-master.zip$t1mlib$script.module.t1mlib-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.thetvdb-master.zip$thetvdb$script.module.thetvdb-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.metadatautils-master.zip$metadatautils$script.module.metadatautils-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.skin.helper.widgets-master.zip$skin.helper.widgets$script.skin.helper.widgets-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.autocompletion-master.zip$autocompletion$script.module.autocompletion-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/resource.images.moviegenreicons.arctic.zephyr-master.zip$zephyr$resource.images.moviegenreicons.arctic.zephyr-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.common.plugin.cache-2.5.8.zip$plugin.cache$script.common.plugin.cache
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.artwork.downloader-master.zip$artwork.downloader$script.artwork.downloader-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.skin.helper.colorpicker-master.zip$colorpicker$script.skin.helper.colorpicker-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.skin.helper.service-master.zip$skin.helper.service$script.skin.helper.service-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.skin.helper.skinbackup-master.zip$skin.helper.skinbackup$script.skin.helper.skinbackup-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.program.autocompletion-master.zip$autocompletion$plugin.program.autocompletion-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.exodus.artwork-1.0.5.zip$script.exodus.artwork$script.exodus.artwork
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.exodus.metadata-1.0.0.zip$script.exodus.metadata$script.exodus.metadata
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.metahandler-master.zip$script.module.metahandler$script.module.metahandler-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.youtube.dl-master.zip$script.module.youtube.dl$script.module.youtube.dl-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.addon.common-master.zip$addon.common$script.module.addon.common-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.myconnpy-master.zip$module.myconnpy$script.module.myconnpy-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.urlresolver-master.zip$module.urlresolver$script.module.urlresolver
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.addon.signals-master.zip$module.addon.signals$script.module.addon.signals-master
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.futures-2.2.0.zip$module.futures$script.module.futures
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.zen.artwork-1.4.0.zip$zen.artwork$script.zen.artwork
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.module.schism.common-2017.3.30.zip$module.schism.common$script.module.schism.common
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/script.elysium.artwork-2017.06.08.zip$elysium.artwork$script.elysium.artwork
+#repos
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.xbmc-israel-1.0.4.zip$[B][COLOR skyblue]repository.xbmc-israel[/COLOR][/B]$repository.xbmc-israel
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.sdarot-1.0.0.zip$[B][COLOR skyblue]repository.sdarot[/COLOR][/B]$repository.sdarot
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/superrepo.kodi.krypton.all-0.7.04.zip$[B][COLOR skyblue]superrepo.kodi.krypton.all[/COLOR][/B]$superrepo.kodi.krypton.all
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.xbmc-israel-1.0.4.zip$[B][COLOR skyblue]repository.xbmc-israel[/COLOR][/B]$repository.xbmc-israel
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/ruuk.addon.repository-2.0.0.zip$[B][COLOR skyblue]Ruuk repository[/COLOR][/B]$ruuk.addon.repository
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.Ebs.zip$[B][COLOR skyblue]repository.Ebs[/COLOR][/B]$repository.Ebs
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.kodil-1.3.zip$[B][COLOR skyblue]repository.kodil[/COLOR][/B]$repository.kodil
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.movix-1.0.0.zip$[B][COLOR skyblue]repository.movix[/COLOR][/B]$repository.movix
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.exodus-1.0.1.zip$[B][COLOR skyblue]repository.exodus[/COLOR][/B]$repository.exodus
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.elysium-2017.06.10.zip$[B][COLOR skyblue]repository.elysium[/COLOR][/B]$repository.elysium
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.kodipopcorntime.repository-1.1.0.zip$[B][COLOR skyblue]kodipopcorntime.repository[/COLOR][/B]$plugin.video.kodipopcorntime.repository
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/repository.smash-1.0.9.zip$[B][COLOR skyblue]smash[/COLOR][/B]$repository.smash
+#addons
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.youtube-5.3.12.zip$[B][COLOR teal]Youtube[/COLOR][/B]$plugin.video.youtube
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/service.iptvsimple.plugin.player-2.0.0.zip$[B][COLOR teal]iptvsimple[/COLOR][/B]$service.iptvsimple.plugin.player
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.MakoTV-1.2.0.zip$[B][COLOR teal]MakoTV[/COLOR][/B]$plugin.video.MakoTV
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.makoTV.video-1.35.1.zip$[B][COLOR teal]makoTV2[/COLOR][/B]$plugin.video.makoTV.video
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.reshet.video-1.3.5.zip$[B][COLOR teal]reshet[/COLOR][/B]$plugin.video.reshet.video
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.tenil-1.0.3.zip$[B][COLOR teal]tenil[/COLOR][/B]$plugin.video.tenil
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.ilten-1.3.2.zip$[B][COLOR teal]ilten[/COLOR][/B]$plugin.video.ilten
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.Ebs4_Kids_Tv-1.1.9.zip$[B][COLOR teal]Ebs4_Kids_Tv[/COLOR][/B]$plugin.video.Ebs4_Kids_Tv
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.reshet.ebs.video-1.1.2.zip$[B][COLOR teal]Reshet.ebs[/COLOR][/B]$plugin.video.reshet.ebs.video
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.wallaNew.video-2.2.5.zip$[B][COLOR teal]Walla[/COLOR][/B]$plugin.video.wallaNew.video
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.hotVOD.video-1.1.7.zip$[B][COLOR teal]hotVOD[/COLOR][/B]$plugin.video.hotVOD.video
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.sdarot.tv-2.4.4.zip$[B][COLOR teal]Sdarot.tv[/COLOR][/B]$plugin.video.sdarot.tv
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.exodus-master.zip$[B][COLOR teal]Exodus[/COLOR][/B]$plugin.video.exodus
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.seretil-2.2.8.zip$[B][COLOR teal]seretil[/COLOR][/B]$plugin.video.seretil
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.movixws-1.3.1.zip$[B][COLOR teal]Movix.Me[/COLOR][/B]$plugin.video.movixws
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/service.subtitles.wizdom-1.0.1.zip$[B][COLOR teal]subtitles.wizdom[/COLOR][/B]$service.subtitles.wizdom-1.0.1
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/plugin.video.elysium-2017.06.10.zip$[B][COLOR teal]Elysium[/COLOR][/B]$plugin.video.elysium
+https://github.com/markop159/Markop159-repository/raw/master/Releases/plugin.video.kodipopcorntime/plugin.video.kodipopcorntime-1.7.2.zip$[B][COLOR teal]kodipopcorntime[/COLOR][/B]$plugin.video.kodipopcorntime
+http://ebs.netai.net/Plugins/service.subtitles.All_Subs/service.subtitles.All_Subs-1.0.6.zip$[B][COLOR teal]All_Subs[/COLOR][/B]$service.subtitles.All_Subs
+#skin
+https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin$skin.phenomenal
+
+#language
+language=hebrew
+#splash screen
+splash=https://raw.githubusercontent.com/ebs111/ebs_repo/master/repository/zips/builder/Stack/Splash.jpg
