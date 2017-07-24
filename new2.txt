@@ -86,7 +86,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plug
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/service.subtitles.wizdom-1.0.1.zip$[B][COLOR teal]subtitles.wizdom[/COLOR][/B]$service.subtitles.wizdom-1.0.1
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.elysium-2017.06.10.zip$[B][COLOR teal]Elysium[/COLOR][/B]$plugin.video.elysium
 https://github.com/markop159/Markop159-repository/raw/master/Releases/plugin.video.kodipopcorntime/plugin.video.kodipopcorntime-1.7.2.zip$[B][COLOR teal]kodipopcorntime[/COLOR][/B]$plugin.video.kodipopcorntime
-http://ebs.netai.net/Plugins/service.subtitles.All_Subs/service.subtitles.All_Subs-1.0.6.zip$[B][COLOR teal]All_Subs[/COLOR][/B]$service.subtitles.All_Subs
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/service.subtitles.All_Subs-1.0.9.zip$[B][COLOR teal]All_Subs[/COLOR][/B]$service.subtitles.All_Subs
 #skin
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin$skin.phenomenal
 
