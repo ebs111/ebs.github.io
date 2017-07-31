@@ -67,7 +67,8 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repo
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.exodus-1.0.1.zip$[B][COLOR skyblue]repository.exodus[/COLOR][/B]$repository.exodus
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.elysium-2017.06.10.zip$[B][COLOR skyblue]repository.elysium[/COLOR][/B]$repository.elysium
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.kodipopcorntime.repository-1.1.0.zip$[B][COLOR skyblue]kodipopcorntime.repository[/COLOR][/B]$plugin.video.kodipopcorntime.repository
-https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.smash-1.0.9.zip$[B][COLOR skyblue]smash[/COLOR][/B]$repository.smash
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.colossus.zip$[B][COLOR skyblue]colossus[/COLOR][/B]$repository.colossus
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.xbmc-avigdork-1.0.3.zip$[B][COLOR skyblue]avigdork[/COLOR][/B]$repository.xbmc-avigdork
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.xbmc-avigdork-1.0.3.zip$[B][COLOR skyblue]avigdork[/COLOR][/B]$repository.xbmc-avigdork
 #addons
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.youtube-5.3.12.zip$[B][COLOR teal]Youtube[/COLOR][/B]$plugin.video.youtube
