@@ -54,6 +54,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/scri
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.zen.artwork-1.4.0.zip$zen.artwork$script.zen.artwork
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.schism.common-2017.3.30.zip$module.schism.common$script.module.schism.common
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.elysium.artwork-2017.06.08.zip$elysium.artwork$script.elysium.artwork
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.israeliveresolver-0.3.5.zip$israeliveresolver$script.module.israeliveresolver
 #repos
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.xbmc-israel-1.0.4.zip$[B][COLOR skyblue]repository.xbmc-israel[/COLOR][/B]$repository.xbmc-israel
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.sdarot-1.0.0.zip$[B][COLOR skyblue]repository.sdarot[/COLOR][/B]$repository.sdarot
@@ -67,6 +68,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repo
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.elysium-2017.06.10.zip$[B][COLOR skyblue]repository.elysium[/COLOR][/B]$repository.elysium
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.kodipopcorntime.repository-1.1.0.zip$[B][COLOR skyblue]kodipopcorntime.repository[/COLOR][/B]$plugin.video.kodipopcorntime.repository
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.smash-1.0.9.zip$[B][COLOR skyblue]smash[/COLOR][/B]$repository.smash
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.xbmc-avigdork-1.0.3.zip$[B][COLOR skyblue]avigdork[/COLOR][/B]$repository.xbmc-avigdork
 #addons
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.youtube-5.3.12.zip$[B][COLOR teal]Youtube[/COLOR][/B]$plugin.video.youtube
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/service.iptvsimple.plugin.player-2.0.0.zip$[B][COLOR teal]iptvsimple[/COLOR][/B]$service.iptvsimple.plugin.player
@@ -87,6 +89,9 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/serv
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.elysium-2017.06.10.zip$[B][COLOR teal]Elysium[/COLOR][/B]$plugin.video.elysium
 https://github.com/markop159/Markop159-repository/raw/master/Releases/plugin.video.kodipopcorntime/plugin.video.kodipopcorntime-1.7.2.zip$[B][COLOR teal]kodipopcorntime[/COLOR][/B]$plugin.video.kodipopcorntime
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/service.subtitles.All_Subs-1.0.9.zip$[B][COLOR teal]All_Subs[/COLOR][/B]$service.subtitles.All_Subs
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.tinklepad-2.0.3.zip$[B][COLOR teal]tinklepad[/COLOR][/B]$plugin.video.tinklepad
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.playlistLoader-1.1.7.zip$[B][COLOR teal]playlistLoader[/COLOR][/B]$plugin.video.playlistLoader
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.israelive-5.0.9.zip$[B][COLOR teal]israelive[/COLOR][/B]$plugin.video.israelive
 #skin
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin$skin.phenomenal
 
