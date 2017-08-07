@@ -95,8 +95,8 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/serv
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.tinklepad-2.0.3.zip$[B][COLOR teal]tinklepad[/COLOR][/B]$plugin.video.tinklepad
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.playlistLoader-1.1.7.zip$[B][COLOR teal]playlistLoader[/COLOR][/B]$plugin.video.playlistLoader
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.israelive-5.0.9.zip$[B][COLOR teal]israelive[/COLOR][/B]$plugin.video.israelive
-https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.gurzil-4.0.1$[B][COLOR teal]gurzil[/COLOR][/B]$plugin.video.gurzil
-https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.streamhub$[B][COLOR teal]streamhub[/COLOR][/B]$plugin.video.streamhub
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.gurzil-4.0.1.zip$[B][COLOR teal]gurzil[/COLOR][/B]$plugin.video.gurzil
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.streamhub.zip$[B][COLOR teal]streamhub[/COLOR][/B]$plugin.video.streamhub
 #skin
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin$skin.phenomenal
 
