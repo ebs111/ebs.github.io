@@ -73,6 +73,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repo
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.streamhub.zip$[B][COLOR skyblue]streamhub[/COLOR][/B]$repository.streamhub
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.smash-1.1.5.zip$[B][COLOR skyblue]Smash[/COLOR][/B]$repository.smash
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.Jksp-1.0.2.zip$[B][COLOR skyblue]JkSp[/COLOR][/B]$repository.Jksp
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.spoyser-1.0.6.zip$[B][COLOR skyblue]spoyser[/COLOR][/B]$repository.spoyser
 #addons
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.youtube-5.3.12.zip$[B][COLOR teal]Youtube[/COLOR][/B]$plugin.video.youtube
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/service.iptvsimple.plugin.player-2.0.0.zip$[B][COLOR teal]iptvsimple[/COLOR][/B]$service.iptvsimple.plugin.player
@@ -99,6 +100,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plug
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.gurzil-4.0.1.zip$[B][COLOR teal]gurzil[/COLOR][/B]$plugin.video.gurzil
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.streamhub.zip$[B][COLOR teal]streamhub[/COLOR][/B]$plugin.video.streamhub
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.jksp-0.0.16.zip$[B][COLOR teal]jksp[/COLOR][/B]$plugin.video.jksp
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.program.super.favourites-1.0.59.zip$[B][COLOR teal]super.favourites[/COLOR][/B]$plugin.program.super.favourites
 #skin
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin$skin.phenomenal
 
