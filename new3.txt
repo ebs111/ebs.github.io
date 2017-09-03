@@ -9,7 +9,7 @@ icon=http://2.bp.blogspot.com/-y4FOiTQeODg/TyFw1ISsRPI/AAAAAAAAFSc/VhaHog90lak/s
 fanart=http://gary3dfxtech.net/Kodi%20Backgrounds/power/power-button.jpg
 #addons/repos
 #basic
-https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/build_anonymos.zip$Anonymos$build_anonymos
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/build_anonymos.zip$Anonymos$plugin.program.utv
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.routing-0.2.0.zip$routing$script.module.routing
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.simplejson-master.zip$simplejson$script.module.simplejson-master
 https://github.com/BigNoid/service.library.data.provider/archive/master.zip$library.data.provider$service.library.data.provider-master
@@ -74,7 +74,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repo
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.xbmc-avigdork-1.0.3.zip$[B][COLOR skyblue]avigdork[/COLOR][/B]$repository.xbmc-avigdork
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.streamhub.zip$[B][COLOR skyblue]streamhub[/COLOR][/B]$repository.streamhub
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.smash-1.1.5.zip$[B][COLOR skyblue]Smash[/COLOR][/B]$repository.smash
-https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.Jksp-1.0.2.zip$[B][COLOR skyblue]JkSp[/COLOR][/B]$repository.Jksp
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.Jksp-1.0.2.zip$[B][COLOR skyblue]JkSp[/COLOR][/B]$repository.Jk%24p
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.spoyser-1.0.6.zip$[B][COLOR skyblue]spoyser[/COLOR][/B]$repository.spoyser
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.RisingTides.zip$[B][COLOR skyblue]RisingTides[/COLOR][/B]$repository.RisingTides
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.Agent.zip$[B][COLOR skyblue]Agent[/COLOR][/B]$repository.Agent
@@ -108,7 +108,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plug
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.Rising.Tides-1.3.4.zip$[B][COLOR teal]Rising.Tides[/COLOR][/B]$plugin.video.Rising.Tides
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.no-name-1.1.3.zip$[B][COLOR teal]no-name[/COLOR][/B]$plugin.video.no-name
 #skin
-https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin$skin.phenomenal
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin_change$skin.phenomenal
 
 #language
 language=hebrew
