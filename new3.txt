@@ -107,6 +107,8 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plug
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.program.super.favourites-1.0.59.zip$[B][COLOR teal]super.favourites[/COLOR][/B]$plugin.program.super.favourites
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.Rising.Tides-1.3.4.zip$[B][COLOR teal]Rising.Tides[/COLOR][/B]$plugin.video.Rising.Tides
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.no-name-1.1.3.zip$[B][COLOR teal]no-name[/COLOR][/B]$plugin.video.no-name
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.covenant.zip$[B][COLOR teal]Covenant[/COLOR][/B]$plugin.video.covenant
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.video.lastship.zip$[B][COLOR teal]Lastship[/COLOR][/B]$plugin.video.lastship
 #skin
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/skin.phenomenal-4.2.5.zip$Phenomenal Skin_change$skin.phenomenal
 
