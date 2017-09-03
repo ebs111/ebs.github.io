@@ -58,6 +58,7 @@ https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/scri
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.pyxbmct-master.zip$pyxbmct$script.module.pyxbmct-master
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/service.force-shutdown.zip$Force-shutdown$service.force-shutdown
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.covenant.artwork-1.0.2.zip$Covenant.artwork$script.covenant.artwork
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.covenant.metadata-1.0.0.zip$Covenant.metadata$script.covenant.metadata
 
 #repos
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/repository.xbmc-israel-1.0.4.zip$[B][COLOR skyblue]repository.xbmc-israel[/COLOR][/B]$repository.xbmc-israel
