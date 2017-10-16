@@ -10,6 +10,7 @@ fanart=http://gary3dfxtech.net/Kodi%20Backgrounds/power/power-button.jpg
 #addons/repos
 #basic
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/build_anonymos.zip$Anonymos$plugin.program.utv
+https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/plugin.program.Revolution-1.3.zip$Revolution$plugin.program.Revolution
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.routing-0.2.0.zip$routing$script.module.routing
 https://github.com/ebs111/ebs_repo/raw/master/repository/zips/builder/stack/script.module.simplejson-master.zip$simplejson$script.module.simplejson-master
 https://github.com/BigNoid/service.library.data.provider/archive/master.zip$library.data.provider$service.library.data.provider-master
